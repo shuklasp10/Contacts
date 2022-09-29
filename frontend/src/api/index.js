@@ -1,3 +1,3 @@
 
-//export default BASE_URL = "https://contacts-backend.vercel.app";
-export default "http://localhost:5000";
+export default "https://contacts-backend.vercel.app";
+//export default "http://localhost:5000";
