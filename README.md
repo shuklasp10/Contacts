@@ -11,4 +11,4 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 **Shri Prakash Shukla**
 
-* [github/nathandao](https://github.com/shuklasp10)
+* [github/shuklasp10](https://github.com/shuklasp10)
